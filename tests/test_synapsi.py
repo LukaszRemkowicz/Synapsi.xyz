@@ -1,7 +1,7 @@
 from unittest import TestCase
 from itertools import product
 
-from synapsi import *
+from synapsi_tasks import *
 
 
 class TestTasksOne(TestCase):
